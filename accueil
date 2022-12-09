@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Document Nucléaire</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+
+		<div id="entete">
+			<img src="Central image.jpeg" alt="Central image" width=100%/>
+		</div>
+		
+		<div id="navigation">
+			<ul>
+				<li><a href="accueil.html">Accueil</a></li>
+				<li><a href="2page.html">Première déscription</a></li>
+				<li><a href="3page.html">Deuxème déscription</a></li>
+				<br>
+				<br>
+				<li><a href="accueil.html">Français</a></li>
+				<li><a href="anglais.html">English</a></li>
+				<li><a href="espagnol.html">Español</a></li>
+				<li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">International</a></li>
+			</ul>
+		</div>
+
+		<div id="contenu">
+			<h1><big>Introduction:</big</h1> 
+			
+			<FONT size="8pt"> 
+				<p>Nous sommes deux journalistes d'investigation sur le nucléaire.
+				<br>Nous avons décidé de vous renseigner de façon générale sur le nucléaire, à l'heure où le changement climatique devient une priorité.
+				<br></p>
+			</FONT> 
+		
+
+	</body>
+</html>
